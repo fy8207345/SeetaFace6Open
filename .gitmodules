@@ -1,6 +1,6 @@
 [submodule "SeetaEyeStateDetector"]
 	path = SeetaEyeStateDetector
-	url = https://github.com/SeetaFace6Open/SeetaEyeStateDetector
+	url = https://github.com/fy8207345/SeetaEyeStateDetector.git
 	branch = master
 [submodule "SeetaAgePredictor"]
 	path = SeetaAgePredictor
@@ -8,11 +8,11 @@
 	branch = master
 [submodule "SeetaGenderPredictor"]
 	path = SeetaGenderPredictor
-	url = https://github.com/SeetaFace6Open/SeetaGenderPredictor
+	url = https://github.com/fy8207345/SeetaGenderPredictor.git
 	branch = master
 [submodule "SeetaMaskDetector"]
 	path = SeetaMaskDetector
-	url = https://github.com/SeetaFace6Open/SeetaMaskDetector
+	url = https://github.com/fy8207345/SeetaMaskDetector.git
 	branch = master
 [submodule "FaceTracker6"]
 	path = FaceTracker6
@@ -32,11 +32,11 @@
 	branch = master
 [submodule "TenniS"]
 	path = TenniS
-	url = https://github.com/TenniS-Open/TenniS
+	url = https://github.com/fy8207345/TenniS.git
 	branch = master
 [submodule "SeetaAuthorize"]
 	path = SeetaAuthorize
-	url = https://github.com/SeetaFace6Open/SeetaAuthorize
+	url = https://github.com/fy8207345/SeetaAuthorize.git
 	branch = master
 [submodule "OpenRoleZoo"]
 	path = OpenRoleZoo
