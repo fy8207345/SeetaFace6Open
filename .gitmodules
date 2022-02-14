@@ -6,10 +6,6 @@
 	path = SeetaAgePredictor
 	url = https://github.com/SeetaFace6Open/SeetaAgePredictor
 	branch = master
-[submodule "FaceAntiSpoofingX6"]
-	path = FaceAntiSpoofingX6
-	url = https://github.com/SeetaFace6Open/FaceAntiSpoofingX6
-	branch = master
 [submodule "SeetaGenderPredictor"]
 	path = SeetaGenderPredictor
 	url = https://github.com/SeetaFace6Open/SeetaGenderPredictor
