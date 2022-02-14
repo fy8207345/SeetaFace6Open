@@ -49,3 +49,6 @@
 [submodule "OpenRoleZoo"]
 	path = OpenRoleZoo
 	url = https://github.com/fy8207345/OpenRoleZoo.git
+[submodule "FaceAntiSpoofingX6"]
+	path = FaceAntiSpoofingX6
+	url = https://github.com/fy8207345/FaceAntiSpoofingX6.git
