@@ -4,7 +4,7 @@
 	branch = master
 [submodule "SeetaAgePredictor"]
 	path = SeetaAgePredictor
-	url = https://github.com/SeetaFace6Open/SeetaAgePredictor
+	url = https://github.com/fy8207345/SeetaAgePredictor.git
 	branch = master
 [submodule "SeetaGenderPredictor"]
 	path = SeetaGenderPredictor
@@ -24,11 +24,11 @@
 	branch = master
 [submodule "PoseEstimator6"]
 	path = PoseEstimator6
-	url = https://github.com/SeetaFace6Open/PoseEstimator6
+	url = https://github.com/fy8207345/PoseEstimator6.git
 	branch = master
 [submodule "QualityAssessor3"]
 	path = QualityAssessor3
-	url = https://github.com/SeetaFace6Open/QualityAssessor3
+	url = https://github.com/fy8207345/QualityAssessor3.git
 	branch = master
 [submodule "TenniS"]
 	path = TenniS
