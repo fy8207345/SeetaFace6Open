@@ -16,11 +16,11 @@
 	branch = master
 [submodule "FaceTracker6"]
 	path = FaceTracker6
-	url = https://github.com/SeetaFace6Open/FaceTracker6
+	url = https://github.com/fy8207345/FaceTracker6.git
 	branch = master
 [submodule "Landmarker"]
 	path = Landmarker
-	url = https://github.com/SeetaFace6Open/Landmarker
+	url = https://github.com/fy8207345/Landmarker.git
 	branch = master
 [submodule "PoseEstimator6"]
 	path = PoseEstimator6
