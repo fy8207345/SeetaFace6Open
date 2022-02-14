@@ -22,10 +22,6 @@
 	path = Landmarker
 	url = https://github.com/SeetaFace6Open/Landmarker
 	branch = master
-[submodule "FaceRecognizer6"]
-	path = FaceRecognizer6
-	url = https://github.com/SeetaFace6Open/FaceRecognizer6
-	branch = master
 [submodule "PoseEstimator6"]
 	path = PoseEstimator6
 	url = https://github.com/SeetaFace6Open/PoseEstimator6
@@ -51,3 +47,6 @@
 [submodule "FaceBoxes"]
 	path = FaceBoxes
 	url = https://github.com/fy8207345/FaceBoxes.git
+[submodule "FaceRecognizer6"]
+	path = FaceRecognizer6
+	url = https://github.com/fy8207345/FaceRecognizer6.git
