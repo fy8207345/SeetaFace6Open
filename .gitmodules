@@ -18,10 +18,6 @@
 	path = FaceTracker6
 	url = https://github.com/SeetaFace6Open/FaceTracker6
 	branch = master
-[submodule "FaceBoxes"]
-	path = FaceBoxes
-	url = https://github.com/SeetaFace6Open/FaceBoxes
-	branch = master
 [submodule "Landmarker"]
 	path = Landmarker
 	url = https://github.com/SeetaFace6Open/Landmarker
@@ -52,3 +48,6 @@
 [submodule "FaceAntiSpoofingX6"]
 	path = FaceAntiSpoofingX6
 	url = https://github.com/fy8207345/FaceAntiSpoofingX6.git
+[submodule "FaceBoxes"]
+	path = FaceBoxes
+	url = https://github.com/fy8207345/FaceBoxes.git
