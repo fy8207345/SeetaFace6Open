@@ -50,3 +50,6 @@
 	path = SeetaAuthorize
 	url = https://github.com/SeetaFace6Open/SeetaAuthorize
 	branch = master
+[submodule "OpenRoleZoo"]
+	path = OpenRoleZoo
+	url = https://github.com/fy8207345/OpenRoleZoo.git
