@@ -1,7 +1,3 @@
-[submodule "OpenRoleZoo"]
-	path = OpenRoleZoo
-	url = https://github.com/SeetaFace6Open/OpenRoleZoo
-	branch = master
 [submodule "SeetaEyeStateDetector"]
 	path = SeetaEyeStateDetector
 	url = https://github.com/SeetaFace6Open/SeetaEyeStateDetector
